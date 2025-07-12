@@ -28,7 +28,7 @@ There are two types of users involved:
 
 ---
 
-## Folder Structure
+1. Folder Structure
 secure_file_sharing/
 │
 ├── app/
