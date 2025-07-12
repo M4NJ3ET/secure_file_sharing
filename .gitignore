@@ -1,0 +1,17 @@
+# 🛑 Secret environment variables
+.env
+
+# 🔁 Python cache files
+__pycache__/
+*.pyc
+
+# 🗃️ SQLite or local DBs (optional)
+*.db
+
+# 📁 Upload folders (agar chaahe toh ignore karna)
+client_uploaded_files/
+ops_uploaded_files/
+
+# 🧪 Test results or IDE folders (optional)
+.vscode/
+.idea/
