@@ -31,13 +31,21 @@ There are two types of users involved:
 1. Folder Structure
 secure_file_sharing/
 │
+
 ├── app/
+
 │ ├── models/
+
 │ ├── routes/
+
 │ └── schemas.py
+
 ├── main.py
+
 ├── requirements.txt
+
 ├── .env (not included in the repository)
+
 ├── client_uploaded_files/
 
 2. Install dependencies: pip install -r requirements.txt
